@@ -1,8 +1,6 @@
-**Computer Engineering, B.Sc. — Gebze Technical University**  
-AI/ML Engineer | LLM Systems | Agentic Workflows
+# AI/ML Engineer | Computer Engineering, B.Sc. — Gebze Technical University
 
 Passionate about building production-ready LLM systems, agentic workflows, and applied ML solutions. Experienced in end-to-end AI development from research to deployment.
-
 ---
 
 ## Tech Stack
@@ -46,7 +44,7 @@ Turkish-language RAG system for university regulation Q&A — demonstrates domai
 ### [MentorMatch](https://github.com/resitaydin/MentorMatch)
 LLM-based semantic matching platform pairing mentors and mentees using embedding similarity and intelligent ranking.
 
-### [AI Product Assistant](https://github.com/resitaydin/AI-product-assistant-demo)
+### [AI Product Assistant](https://github.com/resitaydin/AI-product-assistant)
 Llama 3-powered conversational product assistant with React frontend — production-ready RAG chatbot architecture.
 
 ---
