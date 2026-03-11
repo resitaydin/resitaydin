@@ -1,5 +1,3 @@
-# Reşit Aydın
-
 **Computer Engineering, B.Sc. — Gebze Technical University**  
 AI/ML Engineer | LLM Systems | Agentic Workflows
 
