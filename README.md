@@ -1,8 +1,9 @@
-# 👋 Hi, I'm Reşit Aydın
+# Reşit Aydın
 
-**AI Automation Engineer | LLM Systems Architect**
+**Computer Engineering, B.Sc. — Gebze Technical University**  
+AI/ML Engineer | LLM Systems | Agentic Workflows
 
-I specialize in building **Agentic Workflows** and **Enterprise RAG systems** that drive operational efficiency. Expert in orchestrating complex tasks using LangGraph, n8n, and LangChain to transform raw data into actionable business intelligence. I deliver production-ready LLM solutions that automate workflows and scale intelligently.
+Passionate about building production-ready LLM systems, agentic workflows, and applied ML solutions. Experienced in end-to-end AI development from research to deployment.
 
 ---
 
@@ -16,73 +17,50 @@ I specialize in building **Agentic Workflows** and **Enterprise RAG systems** th
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-### Automation & Orchestration
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+### Frameworks & Tools
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### Vector Databases & Storage
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6584?style=for-the-badge)
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Frameworks & Tools
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
----
-
-## What I Do
-
-**Agentic Workflows** → Multi-agent orchestration with LangGraph, autonomous task execution  
-**Enterprise RAG** → Production-grade retrieval systems, vector databases, semantic search  
-**LLM Automation** → n8n workflows, API integrations, intelligent process automation  
-**AI Infrastructure** → FastAPI backends, Docker deployment, scalable LLM solutions
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
 ## Featured Projects
 
+### [GezAI](https://github.com/resitaydin/GezAI-app)
+AI-powered travel route planning mobile app — full-stack Flutter app with LLM-based route generation and personalized recommendations.
+
 ### [VulnebAIgent](https://github.com/resitaydin/VulnebAIgent)
-Automated vulnerability scanning powered by agentic AI. Combines security expertise with autonomous LLM agents.
+Automated vulnerability scanning using autonomous LLM agents — combines security domain knowledge with agentic AI for intelligent threat detection.
 
 ### [Mimicking Mindsets v2](https://github.com/resitaydin/mimicking-mindsets-v2)
-Multi-agent architecture for my graduate project. Advanced LLM orchestration and agent collaboration.
+Graduate project: multi-agent LLM architecture for simulating diverse reasoning patterns through agent collaboration and orchestration.
 
 ### [GTU QA System](https://github.com/resitaydin/gtu-qa-system)
-Turkish question-answering system using RAG for university regulations. Demonstrates domain-specific LLM applications.
+Turkish-language RAG system for university regulation Q&A — demonstrates domain-specific LLM adaptation and multilingual NLP.
 
 ### [MentorMatch](https://github.com/resitaydin/MentorMatch)
-AI-powered platform that intelligently matches mentors with mentees using LLM-based semantic understanding.
+LLM-based semantic matching platform pairing mentors and mentees using embedding similarity and intelligent ranking.
 
 ### [AI Product Assistant](https://github.com/resitaydin/AI-product-assistant-demo)
-Llama3-powered conversational assistant with React frontend. Production-ready AI chatbot architecture.
+Llama 3-powered conversational product assistant with React frontend — production-ready RAG chatbot architecture.
 
 ---
 
-## Continuous Learning
+## Learning & Exploration
 
-- [AI Data Science Playground](https://github.com/resitaydin/ai-data-science-playground) → Experiments and tutorials
-- [AI Learning Portfolio](https://github.com/resitaydin/ai-learning-portfolio) → Course projects and assessments
-- [Awesome Industry 4.0](https://github.com/resitaydin/awesome-industry4.0) → Curated AI/ML resources
+- [AI Data Science Playground](https://github.com/resitaydin/ai-data-science-playground) — Experiments and tutorials
+- [AI Learning Portfolio](https://github.com/resitaydin/ai-learning-portfolio) — Course projects and assessments
+- [Awesome Industry 4.0](https://github.com/resitaydin/awesome-industry4.0) — Curated AI/ML resources
 
 ---
 
 ## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/resit-aydin)
-
-**Available for:** LLM integration projects, AI automation consulting, collaborative development
-
----
-
-*Code × Curiosity × AI × Automation*
