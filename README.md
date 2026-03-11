@@ -1,7 +1,6 @@
-# AI/ML Engineer | Computer Engineering, B.Sc. — Gebze Technical University
+## AI/ML Engineer | Computer Engineering, B.Sc. — Gebze Technical University
 
 Passionate about building production-ready LLM systems, agentic workflows, and applied ML solutions. Experienced in end-to-end AI development from research to deployment.
----
 
 ## Tech Stack
 
